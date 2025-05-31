@@ -31,7 +31,7 @@ Supports both **city-based search** and **GPS-based weather**, with a beautiful 
 |------------------------|-------------------------|
 | ![screenshot1](assets/images/home_screen.jpg) | ![screenshot2](assets/images/UI.jpg) |
 
-> *(You can add screenshots from your phone here)*
+
 
 ---
 
