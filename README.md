@@ -47,7 +47,7 @@ Download the latest APK:
 
 1. Clone the repo:        
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-app-react-native.git
+https://github.com/LOKii1612/Weather_Forecast_App.git
 ```
 
 1. Install dependencies
