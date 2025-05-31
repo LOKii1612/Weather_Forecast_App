@@ -30,7 +30,7 @@ Supports both **city-based search** and **GPS-based weather**, with a beautiful 
 
 | Home Screen            | Weather Card UI         |
 |------------------------|-------------------------|
-| ![screenshot1](assets/screenshot1.png) | ![screenshot2](assets/screenshot2.png) |
+| ![screenshot1](assets/images/home_screen.jpg) | ![screenshot2](assets/images/UI.jpg) |
 
 > *(You can add screenshots from your phone here)*
 
@@ -45,7 +45,7 @@ Download the latest APK:
 
 ## 🔧 Setup Instructions
 
-1. Clone the repo:
+1. Clone the repo:        
 ```bash
 git clone https://github.com/YOUR_USERNAME/weather-app-react-native.git
 ```
