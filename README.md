@@ -21,7 +21,6 @@ Supports both **city-based search** and **GPS-based weather**, with a beautiful 
 - **React Native + Expo**
 - **OpenWeatherMap API**
 - **Expo Location**
-- **AsyncStorage** (optional for recent search history)
 - **EAS Build** (for APK generation)
 
 ---
